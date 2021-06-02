@@ -1,0 +1,3 @@
+# PBFT simulation in Python
+
+Readme and code-refactoring will be soon...
